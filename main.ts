@@ -146,4 +146,9 @@ let mySprite = sprites.create(img`
     ........................
     ........................
     `, SpriteKind.Player)
+if (true) {
+	
+} else {
+	
+}
 controller.moveSprite(mySprite)
